@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="MMS">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/WebServices"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/Core"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/Dao"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/ServiceCommon"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/CoreTest"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/DaoTest"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/WebServicesTest"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/ServiceCommonTest"/>
+        <property name="context-root" value="MMS"/>
+        <property name="java-output-path" value="/MMS/build/classes"/>
+    </wb-module>
+</project-modules>
